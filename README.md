@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center"> ## Hi there, I'm Maciej 👋 </h1>
 
 ⚡ I am a lecturer, sound designer and programmer with experience working in gamedev and taking my first steps in webdevelopment. I have experience using HTML, CSS, JavaScrpit, TypeScript and C# in Unity. I work in Windows and Linux Ubuntu environments.
 
