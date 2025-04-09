@@ -10,7 +10,7 @@ I am preparing to obtain AZ-900 and AZ-104 certifications. <br>
 
 📫 Contact me: maciejstrozniak@gmail.com <br>
 
-<!--✌️ All of my public code here is free to use. --> <br> 
+<!--✌️ All of my public code here is free to use. -->
 </p>
 <!--
 **MaciejStrozniak/MaciejStrozniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
