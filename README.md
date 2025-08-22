@@ -4,8 +4,7 @@
 My experience includes Microsoft Azure and Google Cloud administration, where I work with container technologies like Docker and Linux Ubuntu operating systems. I have a solid understanding of NGINX server configuration.
 <br>
 <br>
-🔭 My passion lies in continuously expanding my knowledge in the field of Artificial Intelligence, where I build applications and AI agents. I work with both local <br>
-and cloud-based AI models, leveraging the Cursor editor for my projects.
+🔭 My passion lies in continuously expanding my knowledge in the field of Artificial Intelligence, where I build applications and AI agents. I work with both local and cloud-based AI models, leveraging the Cursor editor for my projects.
 <br>
 <br>
 📫 Visit my website: maciejstrozniak.pl or contact me: maciejstrozniak@gmail.com <br>
